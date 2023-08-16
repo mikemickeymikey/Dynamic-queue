@@ -1,0 +1,15 @@
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\bin\Debug\net6.0\CuaDinamica.exe
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\bin\Debug\net6.0\CuaDinamica.deps.json
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\bin\Debug\net6.0\CuaDinamica.runtimeconfig.json
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\bin\Debug\net6.0\CuaDinamica.dll
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\bin\Debug\net6.0\CuaDinamica.pdb
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.csproj.AssemblyReference.cache
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.AssemblyInfoInputs.cache
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.AssemblyInfo.cs
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.dll
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\refint\CuaDinamica.dll
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.pdb
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\CuaDinamica.genruntimeconfig.cache
+C:\Users\miick\Documents\DAM2\M3\UF1\CuaDinamica\CuaDinamica\obj\Debug\net6.0\ref\CuaDinamica.dll
